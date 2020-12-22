@@ -1,4 +1,4 @@
-# A TCP-based socket communication system
+# A TCP-based Socket Programming Project
 
 - This is a communication system using socket programming techniques.
 - It includes a server and clients, which can realize online chatting. 
